@@ -40,3 +40,21 @@ ul {
     color:black;
     
 }
+/* style1 begins */
+#header {
+    font-weight: 700;
+    
+}
+#container {
+    color:rgb(161,128,114);
+    background-color: rgb(218,209,189);
+}
+#navbar ul li a {
+    color:rgb(161,128,114);
+}
+#container h2 {
+    color:rgb(132,99,88);
+}
+#container #navbar .nav-link a:hover {
+    color:rgb(132,99,88);
+}
