@@ -63,11 +63,15 @@ ul li a:hover {
 }
 /* pictures adjust */
 .pro-pic {
+    /* reduced from 250 to have 2 items in rwo */
     width: 210px;
     height:210px;
+    /* giving images better shape */
+    border-radius:2%;
 }
 /* header of projects */
 #header {
+    /* header is separated inorder to give it a hole row */
     text-align: center;
     background-color: #2d6a4f;
     color:#a0e4cc;
@@ -82,5 +86,6 @@ ul li a:hover {
     background-color: #2d6a4f;
     color:#a0e4cc;
     margin-top:0px;
+    /* padding was added to give projects some space */
     padding-top:10px;
 }
