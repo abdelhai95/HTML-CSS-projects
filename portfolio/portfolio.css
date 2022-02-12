@@ -145,8 +145,17 @@ ul li a:hover {
     transform: skewY(-15deg);
 }
 /* media queires for projects */
-@media (max-width:540px) {
+@media (max-width:550px) {
     .box {
         
+        width:300px;
+        margin-bottom:15px;
+    }
+    .pro-pic {
+        width: 260px;
+        
+    }
+    #projects {
+        justify-content: center;
     }
 }
