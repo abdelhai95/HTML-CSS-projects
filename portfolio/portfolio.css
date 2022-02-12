@@ -54,12 +54,23 @@ ul li a:hover {
 }
 /* pictures containers */
 .box {
-    border:2px solid #d8f3dc;
-    width:280px;
+    border:3px solid #d8f3dc;
+    width:250px;
     padding:10px 15px;
+    margin-right:2px;
+    margin-left:2px;
+    margin-bottom: 2px;
 }
 /* pictures adjust */
 .pro-pic {
-    width: 250px;
-    height:250px;
+    width: 210px;
+    height:210px;
+}
+/* the parent of projects */
+#projects {
+    display:flex;
+    flex-wrap: wrap;
+    background-color: #2d6a4f;
+    color:#a0e4cc;
+    margin-top:0px;
 }
