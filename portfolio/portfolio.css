@@ -107,8 +107,21 @@ ul li a:hover {
     even when i added a to it so used footer a */
     text-decoration: none;
     color:#a0e4cc;
+    /* distance links from each other */
+    margin-left:15px;
 }
 /* trying to use icons class */
 .fa-brands  {
     color:#081c15;
+    padding-right:5px;
+}
+/* footer features */
+#foot {
+    display: flex;
+    background-color: #1b4332;
+    /*center elements */
+    justify-content: center;
+    align-items: center;
+    /* bigger footer */
+    height: 20vh;
 }
