@@ -52,3 +52,10 @@ ul li a:hover {
     justify-content: center;
     color:#a0e4cc;
 }
+/* pictures containers */
+
+/* pictures adjust */
+.pro-pic {
+    width: 250px;
+    height:250px;
+}
