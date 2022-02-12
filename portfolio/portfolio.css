@@ -61,6 +61,10 @@ ul li a:hover {
     margin-left:2px;
     margin-bottom: 2px;
 }
+/* animate boxes */
+.box:hover {
+    transform: scale(.8);
+}
 /* pictures adjust */
 .pro-pic {
     /* reduced from 250 to have 2 items in rwo */
