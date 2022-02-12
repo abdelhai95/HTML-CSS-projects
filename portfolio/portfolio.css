@@ -109,6 +109,9 @@ ul li a:hover {
     color:#a0e4cc;
     /* distance links from each other */
     margin-left:15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 /* trying to use icons class */
 .fa-brands  {
@@ -118,10 +121,11 @@ ul li a:hover {
 /* footer features */
 #foot {
     display: flex;
+    flex-direction: column;
     background-color: #1b4332;
+    color: #a0e4cc;
     /*center elements */
-    justify-content: center;
     align-items: center;
     /* bigger footer */
-    height: 20vh;
+    height: 30vh;
 }
