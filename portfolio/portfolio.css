@@ -97,5 +97,7 @@ ul li a:hover {
     height: 30px;
     width:auto;
     padding-top:5px;
+    /* border won't be right cause proportion width/height
+    isn't equall */
     border-radius: 2%;
 }
