@@ -102,7 +102,13 @@ ul li a:hover {
     border-radius: 2%;
 }
 /* style links */
-footer a {
+.fo-li {
+    /* there was class .fo-li in links but didn't worked
+    even when i added a to it so used footer a */
     text-decoration: none;
     color:#a0e4cc;
+}
+/* trying to use icons class */
+.fa-brands  {
+    color:#081c15;
 }
