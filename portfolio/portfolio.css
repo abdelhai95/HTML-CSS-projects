@@ -159,3 +159,11 @@ ul li a:hover {
         justify-content: center;
     }
 }
+@media (max-width:328px) {
+    .box {
+        width:250px;
+    }
+    .pro-pic {
+        width:210px;
+    }
+}
