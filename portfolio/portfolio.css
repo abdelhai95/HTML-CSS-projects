@@ -89,3 +89,13 @@ ul li a:hover {
     /* padding was added to give projects some space */
     padding-top:10px;
 }
+/* image descriptions */
+.tag {
+    background-color: #081c15;
+    text-align: center;
+    margin-bottom: auto;
+    height: 30px;
+    width:auto;
+    padding-top:5px;
+    border-radius: 2%;
+}
