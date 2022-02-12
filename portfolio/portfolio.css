@@ -144,3 +144,9 @@ ul li a:hover {
 #tweet:hover {
     transform: skewY(-15deg);
 }
+/* media queires for projects */
+@media (max-width:540px) {
+    .box {
+        
+    }
+}
