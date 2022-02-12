@@ -129,3 +129,13 @@ ul li a:hover {
     /* bigger footer */
     height: 30vh;
 }
+/* animation to links */
+#git:hover {
+    transform: skewY(-15deg);
+}
+#code:hover {
+    transform: skewY(-15deg);
+}
+#tweet:hover {
+    transform: skewY(-15deg);
+}
