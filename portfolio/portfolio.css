@@ -9,6 +9,11 @@ body {
     display:flex;
     flex-direction: column;
 }
+#nav-bar {
+    position:sticky;
+    top:0px;
+    right:0px;
+}
 
 /* removing bullets, making links in one line */
 ul {
@@ -45,5 +50,5 @@ ul li a:hover {
     margin-top:0px;
     align-items: center;
     justify-content: center;
-    color:#406659;
+    color:#a0e4cc;
 }
