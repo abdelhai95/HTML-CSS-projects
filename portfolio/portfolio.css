@@ -90,6 +90,7 @@ ul li a:hover {
     background-color: #2d6a4f;
     color:#a0e4cc;
     margin-top:0px;
+    padding-left: 15px;
     /* padding was added to give projects some space */
     padding-top:10px;
 }
